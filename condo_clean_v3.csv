@@ -1,4 +1,4 @@
-id,floor,number_of_floors,area,room_size (m2),bts_distance(km),fitness,swimming _pool,department_store_distance (km),express_way_distance (km), security_guard,keycard,cctv,face_recognition,maintenance_fee,number_of_bedroom,number_of_bathroom,land_appraisal_prices, construction_year,price
+id,floor,number_of_floors,area,room_size(m2),bts_distance(km),fitness,swimming _pool,department_store_distance(km),express_way_distance(km),security_guard,keycard,cctv,face_recognition,maintenance_fee,number_of_bedroom,number_of_bathroom,land_appraisal_prices, construction_year,price
 Condo01,5,8,Chatuchak,26,2.8,1,0,2.5,15,1,1,1,0,1000,1,1,250000,2556,1500000
 Condo02,6,8,Bang Na,26,0.8,1,1,4,1,1,1,1,0,1200,1,1,111000,2559,2400000
 Condo03,5,10,Ramintra,43,10,1,1,15,4,1,1,1,0,1200,1,1,120000,2561,3000000
