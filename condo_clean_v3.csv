@@ -1,4 +1,4 @@
-id,floor,number_of_floors,area,room_size(m2),bts_distance(km),fitness,swimming_pool,department_store_distance(km),express_way_distance(km),security_guard,keycard,cctv,face_recognition,maintenance_fee,number_of_bedroom,number_of_bathroom,land_appraisal_prices,construction_year,price
+id,floor,number_of_floors,area,room_size,bts_distance,fitness,swimming_pool,department_store_distance,express_way_distance,security_guard,keycard,cctv,face_recognition,maintenance_fee,number_of_bedroom,number_of_bathroom,land_appraisal_prices,construction_year,price
 Condo01,5,8,Chatuchak,26,2.8,1,0,2.5,15,1,1,1,0,1000,1,1,250000,2556,1500000
 Condo02,6,8,Bang Na,26,0.8,1,1,4,1,1,1,1,0,1200,1,1,111000,2559,2400000
 Condo03,5,10,Ramintra,43,10,1,1,15,4,1,1,1,0,1200,1,1,120000,2561,3000000
@@ -9,7 +9,7 @@ Condo07,3,8,Sukhumvit 42,45,0.36,1,1,0.4,1.7,1,1,1,0,19440,1,1,250000,2552,49000
 Condo08,17,30,Phaya Thai,83,1.3,1,1,3.4,1,1,0,1,0,3320,2,2,84668,2555,9900000
 Condo09,12,22,Phaya Thai,37,0.35,1,1,1.3,7,0,0,1,0,22200,1,1,128000,2555,7900000
 Condo10,4,8,Phasi Charoen,22.56,4.8,1,1,4.2,18,0,0,1,0,786,1,1,52000,2559,1350000
-Condo11,8,30,Thonburi,33,1.1,1,1,900,7.9,1,0,1,0,1023,1,1,69697,2557,2300000
+Condo11,8,30,Thonburi,33,1.1,1,1,0.9,7.9,1,0,1,0,1023,1,1,69697,2557,2300000
 Condo12,28,30, Mueang Samut Prakan,28.5,0.5,1,1,5.9,16.4,0,1,1,0,15660,1,1,94178,2558,2750000
 Condo13,8,8,Bangkok Yai,28.46,2.7,1,1,2.9,8.5,1,1,1,0,360,1,1,125833,2555,1650000
 Condo14,2,22,Bangkok Yai,27,2.2,1,1,2,5.3,1,0,1,0,1215,1,1,125833,2559,2900000
